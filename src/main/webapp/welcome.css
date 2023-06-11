@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+#a1{
+	transition-duration:1s;
+}
+#a1:hover{
+	transform:scale(1.1)
+}
+
+#a2{
+	transition-duration:1s;
+}
+#a2:hover{
+	transform:scale(1.1)
+}

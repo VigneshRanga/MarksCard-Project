@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+#a1{
+	background-color: orange;
+}
+#b1{
+	margin-top:20px;
+	margin-left: 250px;
+	margin-right: 250px;
+	display: flex;
+	
+	background-color:lightgreen;
+}
+#b2{
+		margin-left: 250px;
+	margin-right: 250px;
+	display: flex;
+	background-color: lightgreen;
+}
+#bb1{
+	margin-left: 350px;
+}
+#bb2{
+	margin-left: 330px;
+}

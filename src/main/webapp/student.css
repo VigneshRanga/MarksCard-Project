@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+#a1{
+	height:40px;
+	font-size: 30px;
+	color:white;
+	background-color: orange;
+}
+#a2{
+	font-size: 20px;
+	background-color: orange;
+	height: 30px;
+	color: white;
+	margin-bottom: 30px;
+}
+#a3{
+	color:red;
+	font-size: 30px;
+}
+#a4{
+	margin-left: 70px;
+}
+#a7{
+	margin-top: 20px;
+	margin-left: 70px;
+}
+#a8{
+	height:40px;
+	width:170px;
+	background-color: orange;
+	color: white;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	margin-left: 70px;
+}
